@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/SharedStyle1.css" rel="stylesheet" />
+</head>
+<body>
+    @RenderBody()
+
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    @RenderSection("script", required: false)
+</body>
+</html>

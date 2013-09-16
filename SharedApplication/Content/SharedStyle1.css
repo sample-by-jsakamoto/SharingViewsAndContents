@@ -1,0 +1,9 @@
+﻿h1, h2 {
+    font-family: 'Trebuchet MS';
+    color: #0094ff;
+    height: 126px;
+    padding-left: 130px;
+    background-image: url(images/jsakamoto.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
